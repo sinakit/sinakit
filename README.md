@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a target="_blank" href="https://github.com/rimsila"><img width="120" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/sila.png"></a>
+<a target="_blank" href="https://github.com/rimsila"><img width="120" align="right" src="https://avatars.githubusercontent.com/u/78096556?s=400&u=d1034a51dd8dad07a3c84e61cfc6e57eb085cb3f&v=4"></a>
 
-<!-- <a target="_blank" href="https://tiny.cc/rupeshjs"><img width="250" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/dev.gif"></a> -->
+<!-- <a style="max-width: 100%;border-radius:50%" target="_blank" href="https://tiny.cc/rupeshjs"><img width="250" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/dev.gif"></a> -->
 
 ## CURRICULUM VITAE
 
