@@ -45,10 +45,6 @@ I always keep up to date and challenge with new technologies and using Agile met
   </a> </b> - Jakarta, Indonesia<br>
   <b>Major</b> - Computer Science (Feb,2018 - Jul,2018 , 6 months)
 
-  - <b>JAVA</b>: J2SE (Basic Java and OOP concepts), J2EE (Servlet and MVC pattern)<br>
-    <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
-    <b> SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
-
 - <b><a href="https://camdemo2.wtbidev.co.uk" target="_blank" > Kampong Chheuteal high school :
   </a> </b> – Kampong Thom<br>
   <b>Major</b> - General Knowledge - science (2009-2015)
