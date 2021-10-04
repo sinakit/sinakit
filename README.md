@@ -41,9 +41,9 @@ I always keep up to date and challenge with new technologies and using Agile met
   </a> </b> - Phnom Penh<br>
   <b>Major</b> - BA in Information Technology (2015-2019)
 
-- <b><a href="https://www.kshrd.com.kh/" target="_blank" > Korean Software HRD Center:
-  </a> </b> - Phnom Penh<br>
-  <b>Major</b> - Web Application (8 hours/day , 5month)
+- <b><a href="https://binus.ac.id/" target="_blank" > Bina Nusantara University (Binus):
+  </a> </b> - Jakarta, Indonesia<br>
+  <b>Major</b> - Computer Science (Feb,2018 - Jul,2018 , 6 months)
 
   - <b>JAVA</b>: J2SE (Basic Java and OOP concepts), J2EE (Servlet and MVC pattern)<br>
     <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
