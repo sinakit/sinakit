@@ -53,17 +53,18 @@ I always keep up to date and challenge with new technologies and using Agile met
 
 ```tsx
 {
-  Frontend: ['React Typescript/Javascript', 'Next Js','Umijs','Typescript','DvaJS','AJAX' ,'JSON'],
-  StateManagement: ['Redux Saga/Thunk','Context' , 'Apollo GraphQl'],
+  Frontend: ['React Typescript/Javascript', 'NextJs','Umijs','Typescript','DvaJS','AJAX' ,'JSON'],
+  StateManagement: ['Redux Saga/Thunk','Context','Apollo GraphQl'],
   frontendUI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs','mdx'],
+  Backend: ['Express Typescript/Javascript', 'NestJs','Go-lang'],
   toolsBuildLibrary: ['WebPack' , 'Rollup', 'Npm' ,'Yalc', 'Lerna' , 'Npm', 'yarn'],
   toolsTest: ['Jest'],
   toolsDesign: ['Adobe XD'],
   commonLibrary: ['Axios', 'hook useRequest', 'EChartJs'],
   toolsLint: ['Eslint' , 'Pretty' , 'StyleLint',],
   toolsDev: ['vs code', 'postman', 'jira' , 'Trello'],
-  Cloud: ['Vercel','Heroku', 'Netlify','Github Page'],
-  basicLanguages: ['Linux','SocketIo','Java', 'SpringBoot', 'flutter'],
+  Cloud: ['Vercel','Heroku', 'Netlify','Github Page', 'Digital Ocean', 'AWS'],
+  basicLanguages: ['Linux','Java', 'PHP'],
   myOpenSourceProject: ['Template Starter','Npm Library']
 }
 ```
