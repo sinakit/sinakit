@@ -53,10 +53,10 @@ I always keep up to date and challenge with new technologies and using Agile met
 
 ```tsx
 {
-  Frontend: ['React Typescript/Javascript', 'NextJs','Umijs','Typescript','DvaJS','AJAX' ,'JSON'],
-  StateManagement: ['Redux Saga/Thunk','Context','Apollo GraphQl'],
-  frontendUI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs','mdx'],
   Backend: ['Express Typescript/Javascript', 'NestJs','Go-lang'],
+  Frontend: ['React Typescript/Javascript', 'NextJs','Umijs','Typescript','DvaJS','AJAX' ,'JSON'],
+  StateManagement: ['Redux Saga/Thunk','Context','Apollo GraphQl', 'Recoil'],
+  frontendUI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs','mdx'],
   toolsBuildLibrary: ['WebPack' , 'Rollup', 'Npm' ,'Yalc', 'Lerna' , 'Npm', 'yarn'],
   toolsTest: ['Jest'],
   toolsDesign: ['Adobe XD'],
