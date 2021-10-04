@@ -45,15 +45,15 @@ I always keep up to date and challenge with new technologies and using Agile met
   </a> </b> - Jakarta, Indonesia<br>
   <b>Major</b> - Computer Science (Feb,2018 - Jul,2018 , 6 months)
 
-- <b><a href="https://camdemo2.wtbidev.co.uk" target="_blank" > Kampong Chheuteal high school :
+- <b><a href="#" target="_blank" > Touk Meas high school :
   </a> </b> – Kampong Thom<br>
-  <b>Major</b> - General Knowledge - science (2009-2015)
+  <b>Major</b> - General Knowledge - science (2012-2015)
 
 ### My Skill
 
 ```tsx
 {
-  Frontend: ['React Typescript', 'React Native', 'Next Js','Umijs','Typescript','DvaJS','AJAX' ,'JSON'],
+  Frontend: ['React Typescript/Javascript', 'Next Js','Umijs','Typescript','DvaJS','AJAX' ,'JSON'],
   StateManagement: ['Redux Saga/Thunk','Context' , 'Apollo GraphQl'],
   frontendUI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs','mdx'],
   toolsBuildLibrary: ['WebPack' , 'Rollup', 'Npm' ,'Yalc', 'Lerna' , 'Npm', 'yarn'],
