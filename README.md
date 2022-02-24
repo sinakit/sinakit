@@ -56,17 +56,18 @@ I always keep up to date and challenge with new technologies and using Agile met
   Backend: ['Express Typescript/Javascript', 'NestJs','Go-lang'],
   DB Management: ['MongoDB', 'PSQL','Redis', 'ClickHouse'],
   Frontend: ['React Typescript/Javascript', 'NextJs','Umijs','Typescript','DvaJS','AJAX' ,'JSON'],
-  StateManagement: ['Redux Saga/Thunk','Context','Apollo GraphQl', 'Recoil'],
-  frontendUI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs','mdx'],
-  toolsBuildLibrary: ['WebPack' , 'Rollup', 'Npm' ,'Yalc', 'Lerna' , 'Npm', 'yarn'],
-  toolsTest: ['Jest'],
-  toolsDesign: ['Adobe XD'],
-  commonLibrary: ['Axios', 'hook useRequest', 'EChartJs'],
-  toolsLint: ['Eslint' , 'Pretty' , 'StyleLint',],
-  toolsDev: ['vs code', 'postman', 'jira' , 'Trello'],
+  State Management: ['Redux Saga/Thunk','Context','Apollo GraphQl', 'Recoil'],
+  Frontend UI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs','mdx'],
+  Tools Build Library: ['WebPack' , 'Rollup', 'Npm' ,'Yalc', 'Lerna' , 'Npm', 'yarn'],
+  Tools Test: ['Jest'],
+  Tools Design: ['Adobe XD'],
+  Common Library: ['Axios', 'hook useRequest', 'EChartJs'],
+  Tools Lint: ['Eslint' , 'Pretty' , 'StyleLint',],
+  Tools Dev: ['vs code', 'postman', 'jira' , 'Trello'],
   Cloud: ['Vercel','Heroku', 'Netlify','Github Page', 'Digital Ocean', 'AWS'],
-  basicLanguages: ['Java'],
-  myOpenSourceProject: ['Template Starter','Npm Library']
+  Basic Languages: ['Java'],
+  My OpenSource Project: ['Template Starter','Npm Library']
+  Others: ['RabbitMQ','MQTT', 'Socket.io', 'Kafka', 'Tile38', 'Graphql']
 }
 ```
 
