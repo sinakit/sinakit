@@ -134,7 +134,7 @@ I always keep up to date and challenge with new technologies and using Agile met
 ### Languages
 
 - <b>Khmer:</b> Native Language
-- <b>English:</b> Efficiency (B1-B2)
+- <b>English:</b> Efficiency
 
 ### Programming Language:
 
