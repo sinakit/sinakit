@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 
-**rimsila/README.md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sinakit/README.md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 ## Sinak Hin / ​​ហ៊ឹន​ ស៊ីណាក់
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/sila-rim-a59135166/)
-[![telegram](https://img.shields.io/badge/Telegram-Chat-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://t.me/sila_rim)
-[![Gmail](https://img.shields.io/badge/%20-rimsila.itc@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Gmail](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:855319465222)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/hin-sinak-18367396/)
+[![telegram](https://img.shields.io/badge/Telegram-Chat-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://t.me/hinsiak)
+[![Gmail](https://img.shields.io/badge/%20-hin.sinak@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:hinsinak@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Gmail](https://img.shields.io/badge/Phone-+855_69526433-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:85569526433)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
 Hi There👋, My name is <b>Sinak Hin </b>. I'm 24 years old and I've 4+ years experiences with front/back-end development and achieve more than 10+ various web application projects using <b> ReactJS, ExpressJS, NestJS - (typescript/javascript) and Go-Lang</b>(3+ years) and as <b>Web Designer</b>(1year).
