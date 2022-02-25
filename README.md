@@ -77,7 +77,7 @@ I always keep up to date and challenge with new technologies and using Agile met
 
 - <b> <a target="_blank" href="https://www.linkedin.com/company/vtech-co-ltd/" target="_blank" > VTech CO.,LTD:
   </a></b> <br>
-  <b>Software Engineer (Fullstakc)</b> - October 2021 - Present
+  <b>Software Engineer</b> - October 2021 - Present
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm currently working for VTehc to build ReactJs, NextJs and NestJS projects on <b>Various projects and admin Panel</b>.
   
