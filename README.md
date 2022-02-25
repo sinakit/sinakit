@@ -46,7 +46,7 @@ I always keep up to date and challenge with new technologies and using Agile met
   <b>Major</b> - Computer Science (Feb,2018 - Jul,2018 , 6 months)
 
 - <b><a href="#" target="_blank" > Touk Meas high school :
-  </a> </b> – Kampong Thom<br>
+  </a> </b> – Kampot<br>
   <b>Major</b> - General Knowledge - science (2012-2015)
 
 ### My Skill
@@ -55,13 +55,13 @@ I always keep up to date and challenge with new technologies and using Agile met
 {
   Backend: ['Express Typescript/Javascript', 'NestJs','Go-lang'],
   DB Management: ['MongoDB', 'PSQL','Redis', 'ClickHouse'],
-  Frontend: ['React Typescript/Javascript', 'NextJs','Umijs','Typescript','DvaJS','AJAX' ,'JSON'],
-  State Management: ['Redux Saga/Thunk','Context','Apollo GraphQl', 'Recoil'],
-  Frontend UI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs','mdx'],
+  Frontend: ['React Typescript/Javascript', 'NextJs','Umijs','Typescript','JSON'],
+  State Management: ['Redux Saga','Context','Apollo GraphQl', 'Recoil'],
+  Frontend UI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs'],
   Tools Build Library: ['WebPack' , 'Rollup', 'Npm' ,'Yalc', 'Lerna' , 'Npm', 'yarn'],
   Tools Test: ['Jest'],
   Tools Design: ['Adobe XD'],
-  Common Library: ['Axios', 'hook useRequest', 'EChartJs'],
+  Common Library: ['Axios', 'hook useRequest', 'EChartJs',],
   Tools Lint: ['Eslint' , 'Pretty' , 'StyleLint',],
   Tools Dev: ['vs code', 'postman', 'jira' , 'Trello'],
   Cloud: ['Vercel','Heroku', 'Netlify','Github Page', 'Digital Ocean', 'AWS'],
