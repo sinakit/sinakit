@@ -176,8 +176,8 @@ I always keep up to date and challenge with new technologies and using Agile met
 <a href="#" target="_blank"> <img align="left" title="next js"
   src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/cib-next-js.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
-<a href="#" target="_blank"> <img align="left" title="Bootstrap"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/Bootstrap.svg" alt="reactnative" width="26px" height="26px"  />
+<a href="#" target="_blank"> <img align="left" title="Golang"
+  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 
 <a href="#" target="_blank"> <img align="left" title="github"
