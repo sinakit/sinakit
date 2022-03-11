@@ -108,7 +108,7 @@ I always keep up to date and challenge with new technologies and using Agile met
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 2 year and 7 months for a Startup Company located in the Phnom Penh office. My skill working on developing back-end/micro-services using <b>ExpressJs</b> <b>/NestJs</b> <b>/Golang</b> <b>/some other queue services (MQTT, RabbitMQ...) <b>/real-time services (socket.io ...)</b> <b> and location-services (Google Map, Tile38....) .etc.</b>
   
-  - <b>Private Project</b> (API and admin panel no upublic url to access)
+  - <b>Private Project</b> (API and admin panel no pupublic url to access)
 
 <!-- * -----PlanB---->
 
