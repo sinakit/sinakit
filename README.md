@@ -63,7 +63,7 @@ I always keep up to date and challenge with new technologies and using Agile met
   Tools Design: ['Adobe XD'],
   Common Library: ['Axios', 'hook useRequest', 'EChartJs',],
   Tools Lint: ['Eslint' , 'Pretty' , 'StyleLint',],
-  Tools Dev: ['vs code', 'postman', 'jira' , 'Trello'],
+  Tools Dev: ['vs code', 'postman','graphl playground', 'jira' , 'Trello'],
   Cloud: ['Vercel','Heroku', 'Netlify','Github Page', 'Digital Ocean', 'AWS'],
   Basic Languages: ['Java'],
   My OpenSource Project: ['Template Starter','Npm Library']
