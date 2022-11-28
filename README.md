@@ -187,16 +187,16 @@ I always keep up to date and challenge with new technologies and using Agile met
 </a>
 
 <a href="#" target="_blank"> <img align="left" title="github"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/github color.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title="gitlab"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/gitlab.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title=" trello"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/trello.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://www.vectorlogo.zone/logos/trello/trello-tile.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title=" jira"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/jira.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 
 </p>
