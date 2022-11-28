@@ -53,8 +53,8 @@ I always keep up to date and challenge with new technologies and using Agile met
 
 ```tsx
 {
-  Backend: ['Express Typescript/Javascript', 'NestJs','Go-lang'],
-  DB Management: ['MongoDB', 'PSQL','Redis', 'ClickHouse'],
+  Backend: ['Express Typescript/Javascript', 'Nodejs', 'NestJs','Go-lang'],
+  DB Management: ['MongoDB', 'PSQL','Redis', 'ClickHouse', 'MySql'],
   Frontend: ['React Typescript/Javascript', 'NextJs','Umijs','Typescript','JSON'],
   State Management: ['Redux Saga','Context','Apollo GraphQl', 'Recoil'],
   Frontend UI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs'],
