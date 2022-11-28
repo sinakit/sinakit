@@ -148,7 +148,7 @@ I always keep up to date and challenge with new technologies and using Agile met
 <p align="left">
 
 <a href="#" target="_blank" > <img align="left" title="javascript" 
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/javascript.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title="nestjs"
   src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="reactnative" width="26px" height="26px"  />
