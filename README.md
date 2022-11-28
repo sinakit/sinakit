@@ -157,30 +157,30 @@ I always keep up to date and challenge with new technologies and using Agile met
   src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/typescript.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title="redux"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/redux.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/redux.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title="graph"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/graph.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 
 <a href="#" target="_blank"> <img align="left" title="Sass"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/Sass.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title="less"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/less.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://www.vectorlogo.zone/logos/lesscss/lesscss-ar21.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 
 <a href="#" target="_blank"> <img align="left" title="material-ui"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/material-ui.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title="antd"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/antd.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://camo.githubusercontent.com/363242675617648bfbedd1610f89ac28df0f9e1bac8749d83109fafdf8524fff/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667" alt="reactnative" width="26px" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title="next js"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/cib-next-js.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title="Golang"
   src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="reactnative" width="26px" height="26px"  />
