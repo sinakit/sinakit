@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Phone-+855_69526433-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:85569526433)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
-Hi There👋, My name is <b>Sinak Hin </b>. I'm 24 years old and I've 4+ years experiences with front/back-end development and achieve more than 10+ various web application projects using <b> ReactJS, ExpressJS, NestJS - (typescript/javascript) and Go-Lang</b>(3+ years) and as <b>Web Designer</b>(1year).
+Hi There👋, My name is <b>Sinak Hin </b>. I'm 24 years old and I've 5+ years experiences with front/back-end development and achieve more than 10+ various web application projects using <b> ReactJS, ExpressJS, NestJS - (typescript/javascript) and Go-Lang</b>(4+ years) and as <b>Web Designer</b>(1year).
 
 I always keep up to date and challenge with new technologies and using Agile methodology in development project(Jira) also i've contributed in open-source on GitHub and Npm 🔭. I like to build react, nestjs and golang generator tools to make development process fast as much as possible also building my own component libraries to reuse able across project. My skill set up <b>front-end/back-end architecture is powerful with popular react and nodejs framework </b> ensure our project boilerplate is clean structure by using Typescript, Golang and unit test(some case) to ensure our project is predicable and maintainable. for consistently and code error checking i've using tool like Eslint/Pretty/StyleLint and Webpack with react code splitting to optimize bundle size to take care about the performance of web applications(google light-house) for better user experience with fully SEO optimization (SSR NextJS) 🌱.
 
@@ -75,11 +75,11 @@ I always keep up to date and challenge with new technologies and using Agile met
 
 [back to top^](#curriculum-vitae)
 
-- <b> <a target="_blank" href="https://infinity-tech.cc" target="_blank" > Infinity:
+- <b> <a target="_blank" href="https://infinity-tech.cc" target="_blank" > Infinity Information & Apps Dev:
   </a></b> <br>
   <b>Golang Developer</b> - July 2022 - Present
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm currently working for VTehc to build ReactJs, NextJs and NestJS projects on <b>Various projects and admin Panel</b>.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm currently working for Infinity Information & Apps Dev to build variuos projects/micro service using <b>Golang</b> base.
   
 - <b> <a target="_blank" href="https://www.vtech.one" target="_blank" > VTech CO.,LTD:
   </a></b> <br>
