@@ -99,7 +99,7 @@ I always keep up to date and challenge with new technologies and using Agile met
 
 - <b> <a target="_blank" href="https://github.com/next-dev-team" target="_blank" > Next Dev Team:
   </a></b> <br>
-  <b>NodeJs, ReactJs and Go (Libray & Boilerplat)</b> 2020 - Present (maintenance)
+  <b>NodeJs, ReactJs and Go (Libray & Starter)</b> 2020 - Present (maintenance)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Next Dev Team to build open source tools, starter template project with React library and NestJs Framework, so on.
 
