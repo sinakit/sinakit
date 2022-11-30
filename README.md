@@ -79,13 +79,17 @@ I always keep up to date, challenge with new technologies and using Agile method
   </a></b> <br>
   <b>Golang Developer</b> - July 2022 - Present
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm currently working for Infinity Information & Apps Dev to build variuos projects/micro service using <b>Golang</b> base.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I currently work for one chinese company located in Phnom Penh to build various projects/micro services using <b>Golang</b> base.
+  
+  <b>Skills & Tools:</b> Golang, Nats.io, Websocket and gRPC
   
 - <b> <a target="_blank" href="https://www.vtech.one" target="_blank" > VTech CO.,LTD:
   </a></b> <br>
-  <b>Software Engineer</b> - October 2021 - July 2022
+  <b>Software Engineer</b> - October 2021 - July 2022 (9 months)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was working for VTehc almost 1 year to build ReactJs, NextJs and NestJS projects on <b>Various projects and admin Panel</b>.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was working almost 1 year for a Chinese company located in Phnom Penh to build APIs, admin pannel and web frontend.
+  
+  <b>Skills & Tools:</b> NodeJs, NestJs, Graphql, RabbitMQ, Reactjs and NextJs
   
   - <b>Private Project</b>  (API and admin panel are confidential of company)
  
@@ -93,15 +97,17 @@ I always keep up to date, challenge with new technologies and using Agile method
   </a></b> <br>
   <b>BackEnd Developer</b> - March 2021 - October 2021 (8 months)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was working for Sabay Digital almost 1year to build ReactJs and NodeJS projects on <b>Various Micro-services and admin Panel</b>.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was working almost 1 year for a big digital company located in Phnom Penh to build micro-services and web admin pannel.
+  
+  <b>Skills & Tools:</b> NodeJs, ExpressJs, Golang, gRPC, RabbitMQ and ReactJs
   
   - <b>Private Project</b>  (API and admin panel are confidential of company)
 
-- <b> <a target="_blank" href="https://github.com/next-dev-team" target="_blank" > Next Dev Team:
+- <b> <a target="_blank" href="https://github.com/next-dev-team" target="_blank" > Next Dev Team (open sources team):
   </a></b> <br>
-  <b>NodeJs, ReactJs and Go (Libray & Starter)</b> 2020 - Present (maintenance)
+  <b>NodeJs, ReactJs and Go (Libray & Starter)</b> 2020 - Present
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Next Dev Team to build open source tools, starter template project with React library and NestJs Framework, so on.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I currently work for Next Dev Team to build open source tools, starter template project with React library, NestJs Framework and Golang, so on.
 
   - <b>Public Project Reference</b>
     - <a target="_blank" href="https://github.com/next-dev-team/nestjs-next-boilerplate">NestJs Starter</a>: The starter template of Nestjs
@@ -112,7 +118,9 @@ I always keep up to date, challenge with new technologies and using Agile method
   </a></b> <br>
   <b>BackEnd Developer</b> - September 2018 - March 2021 (2 year 7 months)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 2 year and 7 months for a Startup Company located in the Phnom Penh office. My skill working on developing back-end/micro-services using <b>ExpressJs</b> <b>/NestJs</b> <b>/Golang</b> <b>/some other queue services (MQTT, RabbitMQ...) <b>/real-time services (socket.io ...)</b> <b> and location-services (Google Map, Tile38....) .etc.</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I was working almost 3 years for a Startup Company (Ride hailing service) located in the Phnom Penh office. I was working on building apis/microservices and web admin pannel.
+  
+  <b>Skills & Tools:</b> Backend(NodeJs, NestJs, ExpressJs and Golang), Frontend(ReactJs and NextJs), Message Queue(MQTT and RabbitMQ), Realtime service(Web socket and socket.io) and Location service(Google Map and Tile38)
   
   - <b>Private Project</b> (API and admin panel no pupublic url to access)
 
@@ -121,22 +129,21 @@ I always keep up to date, challenge with new technologies and using Agile method
 - <b> <a target="_blank" href="https://planb-cambodia.com" target="_blank"> PlanB Cambodia:
   </a></b> <br>
   <b>Web Designer</b> - Jan, 2017 - Jan, 2018 (1 year)
-  &nbsp;I've worked for a year at japanese company located in Phnom Penh. I've designed a layout and developed a beautiful user-friendly website, including optimized page speed following the
-  flow of business and UX/UI.<br/>
+  &nbsp;I was working for a year at Japanese company located in Phnom Penh. I was working on design layout, developed beautiful user-friendly website and including optimized page speed following the flow of business and UX/UI.<br/>
 
   <b>Skills & Tools:</b> HTML5, Javascript, Jquery, CSS3, SCSS, Bootstrap4, Css FlexBox, PhotoShop, and Ai.
 
 - <b>Asean City International School:</b><br>
   <b>Computer Teacher</b> - 2016 - 2017 (6 months)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greeting students every morning and teaching them about MS office, internet and Email. Moreover, I’ve control computer laboratory, maintenance, and setup software and windows for the school.<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greeting students every morning and teaching them about MS office, internet and Email. Moreover, I have controlled computer laboratory, maintenance, setup softwares and windows for school.<br/>
   <b>Skills & Tools:</b> Microsoft Office, Computer Maintenance , Installing software and Setup
   Windows.
   
 - <b>World Vision Cambodia (NGO):</b><br>
   <b>English Translator</b> - 2016 - 2017 (5 months)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have handled on basic translation from sponsorship to childrens under their fund and translate from children to thier sponsorship as well.<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have handled on basic translation from sponsorship to childrens under their funds and from children to thier sponsorship.<br/>
 
 ### Languages
 
