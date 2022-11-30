@@ -147,8 +147,8 @@ I always keep up to date, challenge with new technologies and using Agile method
 
 ### Languages
 
-- <b>Khmer:</b> Native Language
-- <b>English:</b> Efficiency
+- <b>Khmer:</b> Native
+- <b>English:</b> Proficiency
 
 ### Programming Language:
 
