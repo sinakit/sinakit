@@ -134,7 +134,7 @@ I always keep up to date and challenge with new technologies and using Agile met
   Windows.
   
 - <b>World Vision Cambodia (NGO):</b><br>
-  <b>Computer Teacher</b> - 2016 - 2017 (5 months)
+  <b>English Translator</b> - 2016 - 2017 (5 months)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have handled on basic translation from sponsorship to childrens under their fund and translate from children to thier sponsorship as well.<br/>
 
