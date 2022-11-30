@@ -83,9 +83,9 @@ I always keep up to date and challenge with new technologies and using Agile met
   
 - <b> <a target="_blank" href="https://www.vtech.one" target="_blank" > VTech CO.,LTD:
   </a></b> <br>
-  <b>Software Engineer</b> - October 2021 - Present
+  <b>Software Engineer</b> - October 2021 - July 2022
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm currently working for VTehc to build ReactJs, NextJs and NestJS projects on <b>Various projects and admin Panel</b>.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was working for VTehc almost 1 year to build ReactJs, NextJs and NestJS projects on <b>Various projects and admin Panel</b>.
   
   - <b>Private Project</b>  (API and admin panel are confidential of company)
  
@@ -93,13 +93,13 @@ I always keep up to date and challenge with new technologies and using Agile met
   </a></b> <br>
   <b>BackEnd Developer</b> - March 2021 - October 2021 (8 months)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Sabay Digital almost 1year to build ReactJs and NodeJS projects on <b>Various Micro-services and admin Panel</b>.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was working for Sabay Digital almost 1year to build ReactJs and NodeJS projects on <b>Various Micro-services and admin Panel</b>.
   
   - <b>Private Project</b>  (API and admin panel are confidential of company)
 
 - <b> <a target="_blank" href="https://github.com/next-dev-team" target="_blank" > Next Dev Team:
   </a></b> <br>
-  <b>React Library</b> 2020 - Present (maintenance)
+  <b>NodeJs, ReactJs and Go (Libray & Boilerplat)</b> 2020 - Present (maintenance)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Next Dev Team to build open source tools, starter template project with React library and NestJs Framework, so on.
 
