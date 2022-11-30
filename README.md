@@ -61,7 +61,7 @@ I always keep up to date, challenge with new technologies and using Agile method
   Tools Build Library: ['WebPack' , 'Rollup', 'Npm' ,'Yalc', 'Lerna' , 'Npm', 'yarn'],
   Tools Test: ['Jest'],
   Tools Design: ['Adobe XD'],
-  Common Library: ['Axios', 'hook useRequest', 'EChartJs',],
+  Common Library: ['Axios', 'hook useRequest', 'EChartJs'],
   Tools Lint: ['Eslint' , 'Pretty' , 'StyleLint'],
   Tools Dev: ['vs code', 'postman','graphl playground', 'jira' , 'Trello'],
   Cloud: ['Vercel','Heroku', 'Netlify','Github Page', 'Digital Ocean', 'AWS'],
