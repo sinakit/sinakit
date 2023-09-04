@@ -75,11 +75,19 @@ I always keep up to date, challenge with new technologies and using Agile method
 
 [back to top^](#curriculum-vitae)
 
+- <b> <a target="_blank" href="" target="_blank" > DR Tech:
+  </a></b> <br>
+  <b>Senior Backend Developer</b> - July 2022 - April 2023
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently working for one chinese company located in Phnom Penh to build various projects/services using <b>NodeJs, Golang and Java</b> base.
+  
+  <b>Skills & Tools:</b> NodeJs, Golang, Java and other tools
+
 - <b> <a target="_blank" href="https://infinity-tech.cc" target="_blank" > Infinity Information & Apps Dev:
   </a></b> <br>
-  <b>Golang Developer</b> - July 2022 - Present
+  <b>Golang Developer</b> - July 2022 - April 2023
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I currently work for one chinese company located in Phnom Penh to build various projects/micro services using <b>Golang</b> base.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was working work for one chinese company located in Phnom Penh to build various projects/micro services using <b>Golang</b> base.
   
   <b>Skills & Tools:</b> Golang, Nats.io, Websocket and gRPC
   
