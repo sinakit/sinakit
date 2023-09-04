@@ -53,7 +53,7 @@ I always keep up to date, challenge with new technologies and using Agile method
 
 ```tsx
 {
-  Backend: ['Express Typescript/Javascript', 'Nodejs', 'NestJs','Go-lang'],
+  Backend: ['Express Typescript/Javascript', 'Nodejs', 'NestJs','Go-lang','Java'],
   DB Management: ['MongoDB', 'PSQL','Redis', 'ClickHouse', 'MySql'],
   Frontend: ['React Typescript/Javascript', 'NextJs','Umijs','Typescript','JSON'],
   State Management: ['Redux Saga','Context','Apollo GraphQl', 'Recoil'],
@@ -77,7 +77,7 @@ I always keep up to date, challenge with new technologies and using Agile method
 
 - <b> <a target="_blank" href="" target="_blank" > DR Tech:
   </a></b> <br>
-  <b>Senior Backend Developer</b> - July 2022 - April 2023
+  <b>Senior Backend Developer</b> - May 2023 - Present
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently working for one chinese company located in Phnom Penh to build various projects/services using <b>NodeJs, Golang and Java</b> base.
   
