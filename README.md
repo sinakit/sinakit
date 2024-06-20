@@ -54,7 +54,7 @@ I always keep up to date, challenge with new technologies and using Agile method
 ```tsx
 {
   Backend: ['Express Typescript/Javascript', 'Nodejs', 'NestJs','Go-lang','Java'],
-  DB Management: ['MongoDB', 'PSQL','Redis', 'ClickHouse', 'MySql', 'DocumengtDB'],
+  DB Management: ['MongoDB', 'PSQL','Redis', 'ClickHouse', 'MySql', 'DocumengtDB', 'ETCD', 'KV', SQLLITE],
   Frontend: ['React Typescript/Javascript', 'NextJs','Umijs','Typescript'],
   State Management: ['Redux Saga','Context','Apollo GraphQl', 'Recoil', 'Redux toolkit'],
   Frontend UI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs'],
