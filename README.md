@@ -79,7 +79,7 @@ I always keep up to date, challenge with new technologies and using Agile method
   </a></b> <br>
   <b>Senior Backend Developer</b> - May 2023 - Present
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently working for one chinese company located in Phnom Penh to build various projects/services using <b>NodeJs, Golang and Java</b> base.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently working for one chinese company located in Phnom Penh to build various projects/services using <b>ReactJs, VueJs, NestJs, Golang, Java and Python(for chatbot)</b> base.
   
   <b>Skills & Tools:</b> NodeJs, Golang, Java and other tools
 
