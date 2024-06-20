@@ -81,7 +81,7 @@ I always keep up to date, challenge with new technologies and using Agile method
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently working for one chinese company located in Phnom Penh to build various projects/services using <b>ReactJs, VueJs, NestJs, Golang, Java and Python(for chatbot)</b> base.
   
-  <b>Skills & Tools:</b> NodeJs, Golang, Java and other tools
+  <b>Skills & Tools:</b> ReactJs, VueJs, NestJs, Golang, Java, Python and other tools
 
 - <b> <a target="_blank" href="https://infinity-tech.cc" target="_blank" > Infinity Information & Apps Dev:
   </a></b> <br>
