@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--<a target="_blank" href="https://github.com/sinakit"><img width="120" align="right" src="https://avatars.githubusercontent.com/u/78096556?s=400&u=d1034a51dd8dad07a3c84e61cfc6e57eb085cb3f&v=4"></a>-->
 
-<a target="_blank" href="https://github.com/sinakit"><img width="120" align="right" src="https://raw.githubusercontent.com/sinakit/sinakit/refs/heads/main/photo_2022-04-28%2021.24.17.jpeg"></a>
+<a target="_blank" href="https://github.com/sinakit"><img style="position: relative;bottom: 20px;" width="120" align="right" src="https://raw.githubusercontent.com/sinakit/sinakit/refs/heads/main/photo_2022-04-28%2021.24.17.jpeg"></a>
 
 
 <!-- <a style="max-width: 100%;border-radius:50%" target="_blank" href="https://tiny.cc/rupeshjs"><img width="250" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/dev.gif"></a> -->
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 Hi There👋, My name is <b>Sinak Hin </b>. I am 26 years old and I have 6+ years experiences with front/back-end development and achieved more than 10+ various services/web application projects using <b> ReactJS, ExpressJS, NestJS - (typescript/javascript) and Go-Lang</b>(4+ years) and as <b>Web Designer</b>(1year).
 
-I always keep up to date, challenge with new technologies and using Agile methodology in development project. I have also contributed in open-source on GitHub and Npm 🔭. I like to build react, nestjs and golang generator tools to make development process fast as much as possible. Moreover, I love building my own component libraries for reusable across projects. My skill is set up <b>front-end/back-end architecture which are powerful with popular react, nodejs and go framework </b> to ensure project started up with clean structure with test ability to ensure the project can progress with predicable time, scalable and maintainable.
+I always keep up to date, challenge with new technologies and using Agile methodology in development project. I have also contributed in open-source on GitHub and Npm 🔭. I like to build react, nestjs and golang generator tools to make development process fast as much as possible. Moreover, I love building my own component libraries for reusable across projects. My skill is set up <b>front-end/back-end architecture which are powerful with popular react, nodejs and go framework </b> to ensure project started up with clean structure and test ability to ensure the project can progress with predicable time, scalable and maintainable.
 
 ### Education
 
