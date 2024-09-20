@@ -53,17 +53,16 @@ I always keep up to date, challenge with new technologies and using Agile method
 
 ```tsx
 {
-  Backend: ['Express Typescript/Javascript', 'NestJs','Go-lang','Java', 'Python'],
-  DB Management: ['MongoDB', 'PSQL','Redis', 'ClickHouse', 'MySql', 'DocumengtDB', 'ETCD', 'KV', 'SQLLITE'],
+  Backend: ['Express Typescript/Javascript', 'NestJs','Golang','Java', 'Python'],
+  Database: ['MongoDB', 'PSQL','Redis', 'ClickHouse', 'MySql', 'DocumengtDB', 'ETCD', 'KV', 'SQLLITE'],
   Frontend: ['React Typescript/Javascript', 'NextJs','Umijs','VueJs'],
-  State Management: ['Redux Saga','Context','Apollo GraphQl', 'Recoil', 'Redux toolkit'],
-  Frontend UI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs'],
-  Tools Build Library: ['WebPack' , 'Rollup', 'Npm' ,'Yalc', 'Lerna' , 'Npm', 'yarn'],
-  Tools Test: ['Jest'],
-  Tools Design: ['Adobe XD'],
+  State Management Tool: ['Redux Saga','Context','Apollo GraphQl', 'Recoil', 'Redux toolkit'],
+  Frontend UI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs', 'Tailwind'],
+  Test Tools: ['Jest', 'Go buildin test'],
+  Design Tools: ['Adobe XD', 'figma'],
   Common Library: ['Axios', 'hook useRequest', 'EChartJs'],
-  Tools Lint: ['Eslint' , 'Pretty' , 'StyleLint'],
-  Tools Dev: ['vs code', 'postman','graphl playground', 'jira' , 'Trello', 'SQLC'],
+  Lint Tools: ['Eslint' , 'Pretty' , 'StyleLint'],
+  Dev Tools: ['vs code', 'postman','graphl playground', 'jira' , 'Trello', 'SQLC'],
   Cloud: ['Vercel','Heroku', 'Netlify','Github Page', 'Digital Ocean', 'AWS'],
   Basic Languages: ['Java','Python'],
   My OpenSource Project: ['Template Starter','Npm Library']
