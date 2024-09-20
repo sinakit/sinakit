@@ -56,17 +56,19 @@ I always keep up to date, challenge with new technologies and using Agile method
   Backend: ['Express Typescript/Javascript', 'NestJs','Golang','Java', 'Python'],
   Database: ['MongoDB', 'PSQL','Redis', 'ClickHouse', 'MySql', 'DocumengtDB', 'ETCD', 'KV', 'SQLLITE'],
   Frontend: ['React Typescript/Javascript', 'NextJs','Umijs','VueJs'],
-  State Management Tool: ['Redux Saga','Context','Apollo GraphQl', 'Recoil', 'Redux toolkit'],
+  State Management Tools: ['Redux Saga','Context','Apollo GraphQl', 'Recoil', 'Redux toolkit'],
   Frontend UI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs', 'Tailwind'],
-  Test Tools: ['Jest', 'Go buildin test'],
+  Test Tools: ['Jest test', 'Go test'],
   Design Tools: ['Adobe XD', 'figma'],
-  Common Library: ['Axios', 'hook useRequest', 'EChartJs'],
   Lint Tools: ['Eslint' , 'Pretty' , 'StyleLint'],
-  Dev Tools: ['vs code', 'postman','graphl playground', 'jira' , 'Trello', 'SQLC'],
-  Cloud: ['Vercel','Heroku', 'Netlify','Github Page', 'Digital Ocean', 'AWS'],
+  Dev Tools: ['vscode', 'postman','graphl playground', 'jira' , 'Trello'],
+  Message Queue Tools: ['RabbitMq', 'MQTT', 'Nats.io', 'kafka'],
+  Realtime Tools: ['Socket io', 'websocket'],
+  Cloud: ['Vercel','Heroku', 'Netlify', 'Digital Ocean', 'AWS'],
   Basic Languages: ['Java','Python'],
-  My OpenSource Project: ['Template Starter','Npm Library']
-  Others: ['RabbitMQ','MQTT','Nats.io', 'Socket.io','websocket' ,'Kafka', 'Tile38', 'Graphql', 'Docker', 'gRPC', 'Kubernete orchestration']
+  My OpenSource Project: ['Template Starter','Npm Library'],
+  Deployment Platform: ['Kubernete', 'Cap rover', 'Docker', 'PM2'],
+  Others: [ 'Tile38', 'Graphql', 'Docker', 'gRPC']
 }
 ```
 
