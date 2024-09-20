@@ -99,8 +99,6 @@ I always keep up to date, challenge with new technologies and using Agile method
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was working almost 1 year for a Chinese company located in Phnom Penh to build APIs, admin pannel and web frontend.
   
   <b>Skills & Tools:</b> NodeJs, NestJs, Graphql, RabbitMQ, Reactjs and NextJs
-  
-  - <b>Private Project</b>  (API and admin panel are confidential of company)
  
 - <b> <a target="_blank" href="https://sabay.com.kh/" target="_blank" > Sabay Digital:
   </a></b> <br>
@@ -109,8 +107,6 @@ I always keep up to date, challenge with new technologies and using Agile method
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was working almost 1 year for a big digital company located in Phnom Penh to build micro-services and web admin pannel.
   
   <b>Skills & Tools:</b> NodeJs, ExpressJs, Golang, gRPC, RabbitMQ and ReactJs
-  
-  - <b>Private Project</b>  (API and admin panel are confidential of company)
 
 - <b> <a target="_blank" href="https://github.com/next-dev-team" target="_blank" > Next Dev Team (open sources team):
   </a></b> <br>
@@ -130,8 +126,6 @@ I always keep up to date, challenge with new technologies and using Agile method
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I was working almost 3 years for a Startup Company (Ride hailing service) located in the Phnom Penh office. I was working on building apis/microservices and web admin pannel.
   
   <b>Skills & Tools:</b> Backend(NodeJs, NestJs, ExpressJs and Golang), Frontend(ReactJs and NextJs), Message Queue(MQTT and RabbitMQ), Realtime service(Web socket and socket.io) and Location service(Google Map and Tile38)
-  
-  - <b>Private Project</b> (API and admin panel no pupublic url to access)
 
 <!-- * -----PlanB---->
 
