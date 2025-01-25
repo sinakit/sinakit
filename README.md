@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Phone-+855_69526433-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:85569526433)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
-Hi There👋, My name is <b>Sinak Hin </b>. I am 27 years old and I have 6+ years experiences with front/back-end development and achieved more than 10+ various services/web application projects using <b> ReactJS, VueJs, ExpressJS, NestJS - (typescript/javascript) and Go-Lang</b>(4+ years) and as <b>Web Designer</b>(1year).
+Hi There👋, My name is <b>Sinak Hin </b>. I am 27 years old and I have 8+ years experiences with front/back-end development and achieved more than 10+ various services/web application projects using <b> ReactJS, VueJs, ExpressJS, NestJS - (typescript/javascript) and Go-Lang</b>(4+ years) and as <b>Web Designer</b>(1year).
 
 I always keep up to date, challenge with new technologies and using Agile methodology in development project. I have also contributed in open-source on GitHub and Npm 🔭. I like to build react, nestjs and golang generator tools to make development process fast as much as possible. Moreover, I love building my own component libraries for reusable across projects. My skill is set up <b>front-end/back-end architecture which are powerful with popular react, nodejs and go framework </b> to ensure project started up with clean structure and test ability to ensure the project can progress with predicable time, scalable and maintainable.
 
