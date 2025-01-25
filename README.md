@@ -57,8 +57,8 @@ I always keep up to date, challenge with new technologies and using Agile method
 ```tsx
 {
   Backend: ['Express Typescript/Javascript', 'NestJs','Golang','Java', 'Python'],
-  Database: ['MongoDB', 'PSQL','Redis', 'ClickHouse', 'MySql', 'DocumengtDB', 'ETCD', 'KV', 'SQLLITE'],
-  Frontend: ['React Typescript/Javascript', 'NextJs','Umijs','VueJs'],
+  Database: ['MongoDB', 'PSQL','Redis', 'ClickHouse', 'MySql', 'DocumengtDB', 'ETCD', 'MSSQL', 'SQLLITE'],
+  Frontend: ['React Typescript/Javascript', 'NextJs','Umijs','VueJs','nuxtjs'],
   State Management Tools: ['Redux Saga','Context','Apollo GraphQl', 'Recoil', 'Redux toolkit'],
   Frontend UI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs', 'Tailwind'],
   Test Tools: ['Jest test', 'Go test'],
@@ -79,9 +79,17 @@ I always keep up to date, challenge with new technologies and using Agile method
 
 [back to top^](#curriculum-vitae)
 
+- <b> <a target="_blank" href="https://www.ababank.com" target="_blank" > ABA Bank:
+  </a></b> <br>
+  <b>Senior Application Developer</b> - November 2024 - Present
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently working for one wellknown bank located in Phnom Penh to build various internal projects/services using <b>NuxtJs, NestJs, MSSQL, .etc.</b> base.
+  
+  <b>Skills & Tools:</b> NuxtJs, ShardCn, NestJs, Tailwind, MSSQL, Microservices and other tools
+
 - <b> <a target="_blank" href="" target="_blank" > DR Tech:
   </a></b> <br>
-  <b>Senior Backend Developer</b> - May 2023 - Present
+  <b>Senior Backend Developer</b> - May 2023 - November 2024
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently working for one chinese company located in Phnom Penh to build various projects/services using <b>ReactJs, VueJs, NestJs, Golang, Java and Python(for chatbot)</b> base.
   
